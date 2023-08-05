@@ -19,7 +19,7 @@ header {
     color: white;  
     background-image: url("bowl.jpg");
     background-repeat: no-repeat;
-  
+    background-position: right;
 }
   
    h1 { 
